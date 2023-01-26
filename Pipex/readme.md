@@ -1,6 +1,8 @@
 # Pipex
 ## Ce projet est la découverte en détails et par la programmation d’un mécanisme UNIX que vous connaissez déjà.
 
+![Alt Text](score.png)
+
 Le projet a pour but de reproduire le comportement Shell des pipes ( | ) en C.
 
 Il nous mène à la découverte de nouvelles fonctions telles que :
